@@ -6,7 +6,7 @@ A web-based **Movie Recommendation System** built with Python and Streamlit that
 
 **Try the application here:**
 
-👉 https://moviesuggestion-mdfyf4xfcnwcxyemuaw7jt.streamlit.app/
+👉 https://movierecommeded-dwzt7of8frzwnhb78voaus.streamlit.app/
 
 ## 📌 Project Overview
 
